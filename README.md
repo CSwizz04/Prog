@@ -1,2 +1,3 @@
 # Prog
-Prog1700
+This is for the ITGE course 
+
